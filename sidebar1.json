@@ -17,26 +17,4 @@
 	{
 		"type": "separator"
 	},
-	{
-		"id": "posts",
-		"value": "Posts",
-		"icon": "mdi mdi-square-edit-outline",
-		"items": [
-			{
-				"id": "addPost",
-				"value": "New Post",
-				"icon": "mdi mdi-plus"
-			},
-			{
-				"id": "allPost",
-				"value": "Posts",
-				"icon": "mdi mdi-view-list"
-			},
-			{
-				"id": "categoryPost",
-				"value": "Category",
-				"icon": "mdi mdi-tag"
-			}
-		]
-	}
 ]
